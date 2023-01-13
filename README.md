@@ -1,4 +1,4 @@
-Charles HW Traffic capture
+<h1 align="center"> Charles HW Traffic capture height="32"</h1>
 
 Ex_1: 
 Method: GET
@@ -16,7 +16,7 @@ response:
 
 Task:
 Do it in both Rewrite and BreakPoint (you can disable it so that it doesn’t stop on each request)
-  ⁃ Change the url in Charles so that the request leaves the name that you entered in Postman, and returns the one that you substituted in Charles.
+- Change the url in Charles so that the request leaves the name that you entered in Postman, and returns the one that you substituted in Charles.
 
 ==================
 
@@ -37,7 +37,7 @@ response:
 
 Task:
 Do it in both Rewrite and BreakPoint (you can disable it so that it doesn’t stop on each request)
-  ⁃ Replace the body in Charles so that the salary that you entered in Postman leaves in the request, and in u_salary_1_5_year the figure returned is less than the original from the request.
+- Replace the body in Charles so that the salary that you entered in Postman leaves in the request, and in u_salary_1_5_year the figure returned is less than the original from the request.
 
 ==================
 
@@ -57,7 +57,7 @@ response:
 
 Task:
 Do it in both Rewrite and BreakPoint (you can disable it so that it doesn’t stop on each request)
-  ⁃ Change the request parameters in Charles so that Postman receives a response where another name, daily_food > weight from the request, and daily_sleep < weight from the request.
+- Change the request parameters in Charles so that Postman receives a response where another name, daily_food > weight from the request, and daily_sleep < weight from the request.
 
 ==================
 
@@ -104,9 +104,9 @@ response:
 
 Task:
 Do it in both Rewrite and BreakPoint (you can disable it so that it doesn’t stop on each request)
-  ⁃ Make it so that the server returns a 405 error through Charles.
-  ⁃ Replace salary in request
-  ⁃ Replace (salary * 2) in response
+- Make it so that the server returns a 405 error through Charles.
+- Replace salary in request
+- Replace (salary * 2) in response
 
 ==================
 
