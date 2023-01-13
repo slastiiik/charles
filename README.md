@@ -1,4 +1,4 @@
-<h1 align="center"> Charles HW Traffic capture height="32"</h1>
+<h1 align="center"> Charles HW Traffic capture</h1>
 
 Ex_1: 
 Method: GET
